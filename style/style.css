@@ -211,6 +211,7 @@ p {
 }
 .user_name {
    display: flex;
+   margin-left: -10px;
 }
 .user_name span {
    font-size: 20px;
